@@ -1,7 +1,5 @@
 # Ebook-database
 
-This program is to demonstrate my competence in using Python and SQL.
-
 It is created for a bookstore.
 The program allows the clerk to enter data about new books into the database, update
 book information, delete books from the database and search to find the
